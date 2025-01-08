@@ -1,0 +1,6 @@
+torch
+pands
+numpy
+opencv_python
+streamlit
+tempfile
