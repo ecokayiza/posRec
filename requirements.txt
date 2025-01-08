@@ -1,5 +1,5 @@
 torch
-pands
+pandas
 numpy
 opencv_python
 streamlit
