@@ -1,0 +1,2 @@
+from posenet.models.mobilenet_v1 import MobileNetV1, MOBILENET_V1_CHECKPOINTS
+# posenet.models 提供MOBILENET_V1_CHECKPOINTS和MobileNetV1接口
