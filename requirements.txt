@@ -3,4 +3,4 @@ pandas
 numpy
 opencv_python
 streamlit
-
+matplotlib
